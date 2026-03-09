@@ -13,7 +13,9 @@ Le modèle est implémenté en **Python avec TensorFlow/Keras** et utilise un **
 
 Le dataset utilisé pour entraîner le modèle peut être téléchargé ici :
 
-https://www.kaggle.com/datasets/zahidbooni/bottles-dataset
+https://www.kaggle.com/datasets/localbrain/bottles
+
+Le dataset peut aussi être enrichi en ajoutant des images prises avec une caméra ou un smartphone
 
 Les images doivent être organisées avec la structure suivante :
 
